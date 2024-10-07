@@ -1,0 +1,6 @@
+@Tgs.GameDomain.Joker_HostAddress = http://localhost:5166
+
+GET {{Tgs.GameDomain.Joker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

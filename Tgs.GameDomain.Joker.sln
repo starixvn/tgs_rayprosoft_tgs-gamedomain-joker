@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tgs.GameDomain.Joker", "Tgs.GameDomain.Joker\Tgs.GameDomain.Joker.csproj", "{53C0E119-A5DB-4E02-973F-14B4B18FE4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C0E119-A5DB-4E02-973F-14B4B18FE4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C0E119-A5DB-4E02-973F-14B4B18FE4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C0E119-A5DB-4E02-973F-14B4B18FE4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C0E119-A5DB-4E02-973F-14B4B18FE4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FDC211-5584-41E9-8234-9A28DDDD5B96}
+	EndGlobalSection
+EndGlobal
