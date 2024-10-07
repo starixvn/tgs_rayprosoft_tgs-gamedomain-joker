@@ -95,7 +95,7 @@ public class DomainController(
 	///         }
 	/// </remarks>
 
-	[HttpPut]
+	[HttpDelete]
 	public async ValueTask<JsonNode> DomainUnRegisterWhitelist(
 		[FromBody] ViewModels.DomainUnRegisterWhitelistViewModel source)
 	{
